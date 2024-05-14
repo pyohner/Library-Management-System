@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="16a915f5-e71d-4638-9c8c-7d575ce2f7d6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Library.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LibraryManagementSystemApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/books.txt" afterDir="false" />
+    <list default="true" id="16a915f5-e71d-4638-9c8c-7d575ce2f7d6" name="Changes" comment="Added menu functionality.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Library.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LibraryManagementSystemApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LibraryManagementSystemApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +37,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.LibraryManagementSystemApp.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "kotlin-language-version-configured": "true",
@@ -57,11 +60,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715708411052</updated>
-      <workItem from="1715708412128" duration="2022000" />
+      <workItem from="1715708412128" duration="10168000" />
     </task>
+    <task id="LOCAL-00001" summary="Added menu functionality.">
+      <option name="closed" value="true" />
+      <created>1715710543651</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715710543651</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added menu functionality." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added menu functionality." />
   </component>
 </project>
