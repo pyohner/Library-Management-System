@@ -3,7 +3,7 @@
  * CEN 3024C - Software Development 1
  * May 14, 2024
  * Library.java
- * This class is the library that contains each book ojbect
+ * This class is the library that contains each book object
  * and includes methods to add the list of books from a text file,
  * add a book manually, remove a book, and list all the books.
  * */
